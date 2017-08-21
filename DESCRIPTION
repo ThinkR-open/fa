@@ -1,0 +1,9 @@
+Package: fa
+Title: Font Awesome Tools
+Version: 0.0.0.9000
+Authors@R: person("Romain", "François", email = "romain@thinkr.fr", role = c("aut", "cre"))
+Description: Font Awesome Tools.
+Depends: R (>= 3.4.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
